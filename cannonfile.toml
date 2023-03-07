@@ -1,0 +1,5 @@
+name="weth"
+version="9"
+
+[contract.WETH9]
+artifact="WETH9"
